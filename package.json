@@ -1,8 +1,7 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "An Express.js template with TypeScript, ESLint and Prettier",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,9 +10,9 @@
     "url": "git+https://github.com/ssnmw/backend.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "ssnmw",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/ssnmw/backend/issues"
   },
