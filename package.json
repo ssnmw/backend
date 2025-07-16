@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ssnmw/backend/issues"
   },
-  "homepage": "https://github.com/ssnmw/backend#readme"
+  "homepage": "https://github.com/ssnmw/backend#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
